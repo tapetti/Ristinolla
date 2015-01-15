@@ -1,0 +1,17 @@
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\bin\Debug\ristinolla.exe
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\bin\Debug\ristinolla.pdb
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\obj\x86\Debug\ristinolla.Form1.resources
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\obj\x86\Debug\ristinolla.Properties.Resources.resources
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\obj\x86\Debug\ristinolla.csproj.GenerateResource.Cache
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\obj\x86\Debug\ristinolla.exe
+C:\Users\tarmo\AppData\Local\Temporary Projects\ristinolla\obj\x86\Debug\ristinolla.pdb
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.exe
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.pdb
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\bin\Debug\ristinolla.exe
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\bin\Debug\ristinolla.pdb
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.Form1.resources
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.Properties.Resources.resources
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.csproj.GenerateResource.Cache
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.Form2.resources
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.Form3.resources
+C:\Users\tarmo\Documents\Tiedostot\Ohjelmointi\C#\Ristinolla\ristinolla\ristinolla\obj\x86\Debug\ristinolla.csprojResolveAssemblyReference.cache
